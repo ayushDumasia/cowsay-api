@@ -11,7 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "child-process": "^1.0.2",
-    "express": "^4.19.2"
+    "cowsay": "^1.6.0",
+    "express": "^4.19.2",
+    "fortune": "^5.5.19"
   },
-  "description": ""
+  "description": "This is a cow say package that I made for fun , Also You can put this in your github readme.md file , This is so cool"
 }
